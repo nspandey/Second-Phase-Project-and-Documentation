@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="FlyAway_Project_Phase-2">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/rosurces"/>
+        <property name="context-root" value="FlyAway_Project_Phase-2"/>
+        <property name="java-output-path" value="/FlyAway_Project_Phase-2/build/classes"/>
+    </wb-module>
+</project-modules>
